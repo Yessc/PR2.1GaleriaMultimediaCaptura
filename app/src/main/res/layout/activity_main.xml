@@ -22,6 +22,18 @@
         android:layout_height="wrap_content"
         android:text="Abrir galería"
         android:layout_marginTop="16dp" />
+    <Button
+        android:id="@+id/btnThumbnail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Tumbnail"/>
+
+    <Button
+        android:id="@+id/btnFull"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Full Size"/>
+
 
 </LinearLayout>
 
